@@ -523,25 +523,34 @@ color: var(--title-color);
 .skills__js{
   width: 60%;
 }
-.skills__react{
+.skills__angular{
   width: 50%;
 }
+.skills__react{
+  width: 65%;
+}
 
+.skills__mysql{
+  width: 80%;
+}
 .skills__php{
-  width: 60%;
+  width: 80%;
 }
 .skills__nodejs{
-  width: 10%;
+  width: 30%;
 }
 .skills__python{
-  width: 70%;
+  width: 80%;
 }
 
 .skills__figma{
-  width: 75%;
+  width: 85%;
+}
+.skills__adobexd{
+  width: 70%;
 }
 .skills__canva{
-  width: 80%;
+  width: 85%;
 }
 .skills__photoshop{
   width: 60%;
